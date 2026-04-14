@@ -11,7 +11,7 @@ This project demonstrates full-stack development using the MERN stack with AI AP
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
+### 💻 Frontend 
 
 * React.js
 * Tailwind CSS
